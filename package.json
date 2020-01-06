@@ -1,0 +1,22 @@
+{
+	"name": "banner",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/banner.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/libs": "http://github.com/michaelord/libs.git",
+		"components/types": "http://github.com/michaelord/types.git",
+		"components/banner": "http://github.com/michaelord/banner.git",
+		"components/styleguide": "http://github.com/michaelord/styleguide.git",
+		"components/content": "http://github.com/michaelord/content.git"
+	}
+}
